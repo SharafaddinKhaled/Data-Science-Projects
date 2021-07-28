@@ -11,21 +11,21 @@
 
 The dataset has the following columns:
 
-tweet_id                                                           
-airline_sentiment                                               
-airline_sentiment_confidence                               
-negativereason                                                   
-negativereason_confidence                                    
-airline                                                                    
-airline_sentiment_gold                                              
-name     
-negativereason_gold 
-retweet_count
-text
-tweet_coord
-tweet_created
-tweet_location 
-user_timezone
+- tweet_id                                                           
+- airline_sentiment                                               
+- airline_sentiment_confidence                               
+- negativereason                                                   
+- negativereason_confidence                                    
+- airline                                                                    
+- airline_sentiment_gold                                              
+- name     
+- negativereason_gold 
+-retweet_count
+- text
+- tweet_coord
+- tweet_created
+- tweet_location
+- user_timezone
 
 
 
