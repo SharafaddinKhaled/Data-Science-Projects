@@ -30,10 +30,13 @@ Objective:
 
 
 4. Outcomes:
-- Basic understanding of text pre-processing.
+
+- Basic understanding of text pre-processing
 - What to do after text pre-processing
 - Bag of words
 - Tf-idf
-- Build the classification model.
+- Build the classification model
 - Evaluate the Model
 - Word Cloud Generator
+
+
