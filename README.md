@@ -26,7 +26,7 @@ tweet_coord
 tweet_created
 tweet_location 
 user_timezone
-Objective:
+
 
 
 4. Outcomes:
