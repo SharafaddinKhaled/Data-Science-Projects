@@ -1,3 +1,9 @@
+Note: This repository includes the following files:
+- Khaled Sharafaddin - NLP Airline Tweets.ipynb jupyter Notebook
+- Khaled Sharafaddin - NLP Airline Tweets.py Python file
+- Airlines Tweets.csv Raw Data File
+
+
 1. Background and Context:
 - Twitter posses 330 million monthly active users, which allows businesses to reach a broad population and connect with customers without intermediaries. On the other side, there’s so much information that it’s difficult for brands to quickly detect negative social mentions that could harm their business.
 - That's why sentiment analysis/classification, which involves monitoring emotions in conversations on social media platforms, has become a key strategy in social media marketing.
